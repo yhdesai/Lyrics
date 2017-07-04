@@ -54,7 +54,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="It Ain't Me"
+            android:text="It Aint Me"
             />
 
         <Button
@@ -72,7 +72,7 @@
         <Button
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Don't Let Me Down"
+            android:text="Dont Let Me Down"
             />
 
         <Button
