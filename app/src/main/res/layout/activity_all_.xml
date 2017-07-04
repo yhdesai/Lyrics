@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="io.github.yhdesai.lyrics.All_Activity">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Activity_All(this)"
+        android:id="@+id/lbutton1"
+        android:onClick="lbutton1"
+        />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="artist_list"
+        android:onClick="lbutton2"
+        android:id="@+id/lbutton2"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="bars_and_melody"
+        android:onClick="lbutton3"
+        android:id="@+id/lbutton3"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="justin_bieber"
+        android:onClick="lbutton4"
+        android:id="@+id/lbutton4"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="main"
+        android:onClick="lbutton5"
+        android:id="@+id/lbutton5"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="troye_sivan"
+        android:onClick="lbutton6"
+        android:id="@+id/lbutton6"/>
+
+</LinearLayout>
