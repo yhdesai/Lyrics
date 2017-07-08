@@ -5,6 +5,17 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 
+
+
+
+int [] bamSongs = new int[5];
+
+bamSongs[0] = 1;
+bamSongs[1] = 2;
+bamSongs[2] = 3;
+bamSongs[3] = 4;
+bamSongs[4] = 5;
+
 public class Bars_And_Melody extends AppCompatActivity {
 
     @Override
