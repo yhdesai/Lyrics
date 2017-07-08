@@ -20,6 +20,7 @@ public class Bars_And_Melody extends AppCompatActivity {
 
         bamSongs.add("1");
         bamSongs.add("2");
+        //commit change edit
 
 
         LinearLayout bamSongsActivity = (LinearLayout) findViewById(R.id.bamSongsActivity);
