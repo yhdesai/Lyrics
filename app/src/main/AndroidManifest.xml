@@ -37,7 +37,8 @@
         <activity android:name=".bam_7_years" />
         <activity android:name=".bam_hello" />
         <activity android:name=".bam_unforgettable" />
-        <activity android:name=".song_lyric_activity"></activity>
+        <activity android:name=".song_lyric_activity" />
+        <activity android:name=".SampleArrayList"></activity>
     </application>
 
 </manifest>
