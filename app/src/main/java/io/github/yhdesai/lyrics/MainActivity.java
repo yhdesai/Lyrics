@@ -25,6 +25,18 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(MainActivity.this, Artist_List.class);
         startActivity(intent);}
 
+    public void mysongs (View view) {
+        Intent intent = new Intent(MainActivity.this, Artist_List.class);
+        startActivity(intent);}
+
+    public void nightcore (View view) {
+        Intent intent = new Intent(MainActivity.this, Artist_List.class);
+        startActivity(intent);}
+
+    public void uehi (View view) {
+        Intent intent = new Intent(MainActivity.this, Artist_List.class);
+        startActivity(intent);}
+
 
 
 

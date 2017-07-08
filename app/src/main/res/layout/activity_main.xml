@@ -15,7 +15,32 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Artist"
+                android:id="@+id/artist"
                 android:onClick="artist"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="my songs"
+                android:id="@+id/mysongs"
+                android:layout_below="@+id/artist"
+                android:onClick="mysongs"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="nightcore"
+                android:layout_below="@+id/mysongs"
+                android:id="@+id/nightcore"
+                android:onClick="nightcore"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="hidden"
+                android:layout_below="@+id/nightcore"
+                android:id="@+id/uehi"
+                android:onClick="uehi"/>
             <Button
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

@@ -20,7 +20,23 @@
         <activity android:name=".Troye_Sivan" />
         <activity android:name=".Justin_Bieber" />
         <activity android:name=".Bars_And_Melody" />
-        <activity android:name=".All_Activity"></activity>
+        <activity android:name=".All_Activity" />
+        <activity android:name=".bam_keep_smiling" />
+        <activity android:name=".bam_hopeful" />
+        <activity android:name=".bam_beautiful" />
+        <activity android:name=".bam_thousand_years" />
+        <activity android:name=".bam_nemo" />
+        <activity android:name=".bam_closer" />
+        <activity android:name=".bam_it_aint_me" />
+        <activity android:name=".bam_shape_of_you" />
+        <activity android:name=".bam_live_your_life" />
+        <activity android:name=".bam_dont_let_me_down" />
+        <activity android:name=".bam_battle_scars" />
+        <activity android:name=".bam_one_dance" />
+        <activity android:name=".bam_faded" />
+        <activity android:name=".bam_7_years" />
+        <activity android:name=".bam_hello" />
+        <activity android:name=".bam_unforgettable"></activity>
     </application>
 
 </manifest>

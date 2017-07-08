@@ -1,7 +1,9 @@
 package io.github.yhdesai.lyrics;
 
+import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 
 public class Bars_And_Melody extends AppCompatActivity {
 
@@ -10,4 +12,9 @@ public class Bars_And_Melody extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_bars__and__melody);
     }
+
+
+    public void keepsmiling (View view) {
+        Intent intent = new Intent(Bars_And_Melody.this, bam_keep_smiling.class);
+        startActivity(intent);}
 }
