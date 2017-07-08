@@ -36,7 +36,8 @@
         <activity android:name=".bam_faded" />
         <activity android:name=".bam_7_years" />
         <activity android:name=".bam_hello" />
-        <activity android:name=".bam_unforgettable"></activity>
+        <activity android:name=".bam_unforgettable" />
+        <activity android:name=".song_lyric_activity"></activity>
     </application>
 
 </manifest>

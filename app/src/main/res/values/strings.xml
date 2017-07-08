@@ -1,3 +1,29 @@
 <resources>
     <string name="app_name">Lyrics</string>
+    <string name="lyrics">Lyrics will be here</string>
+    <string name="Song_Name">Song Name</string>
+    <string name="bam1">7 Years</string>
+    <string name="bam2">Battle Scars</string>
+    <string name="bam3">beautiful</string>
+    <string name="bam4">closer</string>
+    <string name="bam5">Dont let me down</string>
+    <string name="bam6">faded</string>
+    <string name="bam7">hello</string>
+    <string name="bam8">hopeful</string>
+    <string name="bam9">it aint me</string>
+    <string name="bam10">keep smiling</string>
+    <string name="bam11">live your life</string>
+    <string name="bam12">nemo</string>
+    <string name="bam13">one dance</string>
+    <string name="bam14">shape of you</string>
+    <string name="bam15">thousand years</string>
+    <string name="bam16">unforgettable</string>
+
+
 </resources>
+
+
+
+
+
+

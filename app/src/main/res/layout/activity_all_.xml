@@ -44,4 +44,12 @@
         android:onClick="lbutton6"
         android:id="@+id/lbutton6"/>
 
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="lyric_activity"
+        android:onClick="lbutton7"
+        android:id="@+id/lbutton7"/>
 </LinearLayout>

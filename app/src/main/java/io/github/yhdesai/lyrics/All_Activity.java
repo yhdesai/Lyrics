@@ -37,6 +37,10 @@ public class All_Activity extends AppCompatActivity {
         Intent intent = new Intent(All_Activity.this, Troye_Sivan.class);
         startActivity(intent);}
 
+    public void lbutton7 (View view) {
+        Intent intent = new Intent(All_Activity.this, song_lyric_activity.class);
+        startActivity(intent);}
+
 
 
 

@@ -15,6 +15,6 @@ public class Bars_And_Melody extends AppCompatActivity {
 
 
     public void keepsmiling (View view) {
-        Intent intent = new Intent(Bars_And_Melody.this, bam_keep_smiling.class);
+        Intent intent = new Intent(Bars_And_Melody.this, song_lyric_activity.class);
         startActivity(intent);}
 }
