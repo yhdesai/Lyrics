@@ -29,36 +29,10 @@ public class Troye_Sivan extends AppCompatActivity {
 
 
         ArrayAdapter<String> itemAdapter =
-                new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, tsSongs);
+                new ArrayAdapter<>(this, android.R.layout.simple_list_item_1, tsSongs);
 
         ListView listView = (ListView) findViewById(R.id.list);
-        listView.setAdapter(itemsAdapter);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-        LinearLayout bamSongsActivity = (LinearLayout) findViewById(R.id.tsSongsActivity);
-        for (int index = 0; index < tsSongs.size(); index++)
-
-        {
-            Button bamSongButtons1 = new Button(this);
-            bamSongButtons1.setText(tsSongs.get(index));
-            bamSongsActivity.addView(bamSongButtons1);
-        }
+        listView.setAdapter(itemAdapter);
 
 
     }
